@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Mehmet Kurt</h2>
 <h3 align="center">👨‍💻 A Software developer</h3>
 
-- 🔭 I’m learning python (Python)
+- 🔭 I’m learning Unity
 
 - 👨‍💻 All of my projects are available at [Github](github.com/m3m0K)
 
